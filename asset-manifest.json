@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c5973b81.chunk.css",
-    "main.js": "/static/js/main.75722872.chunk.js",
-    "main.js.map": "/static/js/main.75722872.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.857a8b3e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.857a8b3e.js.map",
-    "static/js/2.1ecfd08d.chunk.js": "/static/js/2.1ecfd08d.chunk.js",
-    "static/js/2.1ecfd08d.chunk.js.map": "/static/js/2.1ecfd08d.chunk.js.map",
-    "static/js/3.3af0f8d2.chunk.js": "/static/js/3.3af0f8d2.chunk.js",
-    "static/js/3.3af0f8d2.chunk.js.map": "/static/js/3.3af0f8d2.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.c5973b81.chunk.css.map": "/static/css/main.c5973b81.chunk.css.map",
-    "static/js/2.1ecfd08d.chunk.js.LICENSE.txt": "/static/js/2.1ecfd08d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/background.6f22583b.jpg",
-    "static/media/conference.517b377a.png": "/static/media/conference.517b377a.png"
+    "main.css": "/kyberkup/static/css/main.ea43ff94.chunk.css",
+    "main.js": "/kyberkup/static/js/main.75722872.chunk.js",
+    "main.js.map": "/kyberkup/static/js/main.75722872.chunk.js.map",
+    "runtime-main.js": "/kyberkup/static/js/runtime-main.d9233d7f.js",
+    "runtime-main.js.map": "/kyberkup/static/js/runtime-main.d9233d7f.js.map",
+    "static/js/2.1ecfd08d.chunk.js": "/kyberkup/static/js/2.1ecfd08d.chunk.js",
+    "static/js/2.1ecfd08d.chunk.js.map": "/kyberkup/static/js/2.1ecfd08d.chunk.js.map",
+    "static/js/3.3af0f8d2.chunk.js": "/kyberkup/static/js/3.3af0f8d2.chunk.js",
+    "static/js/3.3af0f8d2.chunk.js.map": "/kyberkup/static/js/3.3af0f8d2.chunk.js.map",
+    "index.html": "/kyberkup/index.html",
+    "static/css/main.ea43ff94.chunk.css.map": "/kyberkup/static/css/main.ea43ff94.chunk.css.map",
+    "static/js/2.1ecfd08d.chunk.js.LICENSE.txt": "/kyberkup/static/js/2.1ecfd08d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/kyberkup/static/media/background.6f22583b.jpg",
+    "static/media/conference.517b377a.png": "/kyberkup/static/media/conference.517b377a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.857a8b3e.js",
+    "static/js/runtime-main.d9233d7f.js",
     "static/js/2.1ecfd08d.chunk.js",
-    "static/css/main.c5973b81.chunk.css",
+    "static/css/main.ea43ff94.chunk.css",
     "static/js/main.75722872.chunk.js"
   ]
 }
